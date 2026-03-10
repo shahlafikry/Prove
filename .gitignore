@@ -1,0 +1,26 @@
+# Node.js
+node_modules/
+
+# Build output
+.next/
+
+# Local environment variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# IDE patterns
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+logs/
+npm-debug.log*
+
+# Misc
+.DS_Store
+Thumbs.db
